@@ -1,0 +1,12 @@
+2026-09-29 15:21:23 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:21:23 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0130s
+2026-09-29 15:21:46 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:21:46 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0136s
+2026-09-29 15:22:04 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:22:04 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0214s
+2026-09-29 15:22:29 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:22:29 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0171s
+2026-09-29 15:22:48 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:22:48 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0455s
+2026-09-29 15:23:05 | INFO | employee_api | Request started | GET /employees/
+2026-09-29 15:23:05 | INFO | employee_api | Request completed | GET /employees/ | status=200 | time=0.0120s
